@@ -29,7 +29,7 @@ twitter_username: SamErde
 github_username:  SamErde
 
 # Build settings
-theme: tactile
+theme: minima
 plugins:
   - jekyll-feed
   - github-pages
