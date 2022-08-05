@@ -29,13 +29,13 @@ twitter_username: SamErde
 github_username:  SamErde
 
 # Build settings
-theme: jekyll-theme-tactile
-#remote_theme: pages-themes/tactile
+# theme: jekyll-theme-tactile
+remote_theme: pages-themes/tactile
 
 plugins:
   - jekyll-feed
   - github-pages
-#  - jekyll-remote-theme
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
