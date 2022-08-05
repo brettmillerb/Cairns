@@ -29,8 +29,8 @@ twitter_username: SamErde
 github_username:  SamErde
 
 # Build settings
-# theme: tactile
-remote_theme: pages-themes/tactile
+theme: tactile
+#remote_theme: pages-themes/tactile
 
 plugins:
   - jekyll-feed
